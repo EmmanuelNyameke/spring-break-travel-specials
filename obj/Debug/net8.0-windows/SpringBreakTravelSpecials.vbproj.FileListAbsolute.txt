@@ -1,0 +1,17 @@
+C:\Users\HELLO\Source\Repos\SpringBreakTravelSpecials\obj\Debug\net8.0-windows\SpringBreakTravelSpecials.frmSpringBreakTravelSpecials.resources
+C:\Users\HELLO\Source\Repos\SpringBreakTravelSpecials\obj\Debug\net8.0-windows\SpringBreakTravelSpecials.vbproj.GenerateResource.cache
+C:\Users\HELLO\Source\Repos\SpringBreakTravelSpecials\obj\Debug\net8.0-windows\SpringBreakTravelSpecials.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HELLO\Source\Repos\SpringBreakTravelSpecials\obj\Debug\net8.0-windows\SpringBreakTravelSpecials.AssemblyInfoInputs.cache
+C:\Users\HELLO\Source\Repos\SpringBreakTravelSpecials\obj\Debug\net8.0-windows\SpringBreakTravelSpecials.AssemblyInfo.vb
+C:\Users\HELLO\Source\Repos\SpringBreakTravelSpecials\obj\Debug\net8.0-windows\SpringBreakTravelSpecials.vbproj.CoreCompileInputs.cache
+C:\Users\HELLO\Source\Repos\SpringBreakTravelSpecials\bin\Debug\net8.0-windows\SpringBreakTravelSpecials.exe
+C:\Users\HELLO\Source\Repos\SpringBreakTravelSpecials\bin\Debug\net8.0-windows\SpringBreakTravelSpecials.deps.json
+C:\Users\HELLO\Source\Repos\SpringBreakTravelSpecials\bin\Debug\net8.0-windows\SpringBreakTravelSpecials.runtimeconfig.json
+C:\Users\HELLO\Source\Repos\SpringBreakTravelSpecials\bin\Debug\net8.0-windows\SpringBreakTravelSpecials.dll
+C:\Users\HELLO\Source\Repos\SpringBreakTravelSpecials\bin\Debug\net8.0-windows\SpringBreakTravelSpecials.pdb
+C:\Users\HELLO\Source\Repos\SpringBreakTravelSpecials\obj\Debug\net8.0-windows\SpringBreakTravelSpecials.dll
+C:\Users\HELLO\Source\Repos\SpringBreakTravelSpecials\obj\Debug\net8.0-windows\refint\SpringBreakTravelSpecials.dll
+C:\Users\HELLO\Source\Repos\SpringBreakTravelSpecials\obj\Debug\net8.0-windows\SpringBreakTravelSpecials.pdb
+C:\Users\HELLO\Source\Repos\SpringBreakTravelSpecials\obj\Debug\net8.0-windows\SpringBreakTravelSpecials.genruntimeconfig.cache
+C:\Users\HELLO\Source\Repos\SpringBreakTravelSpecials\obj\Debug\net8.0-windows\ref\SpringBreakTravelSpecials.dll
+C:\Users\HELLO\Source\Repos\SpringBreakTravelSpecials\obj\Debug\net8.0-windows\SpringBreakTravelSpecials.Resources.resources
